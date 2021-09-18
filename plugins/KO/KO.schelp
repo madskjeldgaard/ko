@@ -1,0 +1,26 @@
+class:: KO
+summary:: ajsdgk
+related:: TODO
+categories:: UGens>TODO
+
+description::
+
+ajsdgk
+
+
+classmethods::
+
+method::ar, kr
+
+argument::TODO
+
+argument::TODO
+
+
+examples::
+
+code::
+
+{ KO.ar(/* TODO */) }.play
+
+::
